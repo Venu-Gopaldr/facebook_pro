@@ -2,3 +2,5 @@ signup
 email
 username
 password
+Phone number
+OTP
